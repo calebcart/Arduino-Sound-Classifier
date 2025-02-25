@@ -20,4 +20,5 @@ Step 2: Send Classification to Arduino: The Python script sends "LOUD" or "QUIET
 Step 3: Arduino Controls LED: If "LOUD" is detected → LED Blinks If "QUIET" is detected → LED Turns Off.
 
 ### **Model conversion**
+To use the teachable machine AI model with Python you need to convert it to a Keras file which you can do here. 
 link to google colab: https://colab.research.google.com/drive/136izxZaAaGeL8-204RvE6p6p1DE9sZnD?usp=sharing
