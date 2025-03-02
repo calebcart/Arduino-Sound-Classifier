@@ -22,3 +22,6 @@ Step 3: Arduino Controls LED: If "LOUD" is detected → LED Blinks If "QUIET" is
 ### **Model conversion**
 To use the teachable machine AI model with Python you need to convert it to a Keras file which you can do here. 
 link to google colab: https://colab.research.google.com/drive/136izxZaAaGeL8-204RvE6p6p1DE9sZnD?usp=sharing
+
+### **Explanation Video**
+https://drive.google.com/file/d/1U_xbUGCU4PvaBjzvCqjvc_vrA6r-eSsr/view?usp=sharing
