@@ -9,7 +9,7 @@ This is my first project for IT 254, it receives audio input from a microphone a
 
 ### **Software**
 -  **Python 3.9+** 
--  **TensorFlow, Librosa, Numpy, Serial, Time** 
+-  **TensorFlow, Librosa, Numpy, Serial** 
 -  **Sounddevice** (for microphone input)
 -  **Arduino IDE** (for programming the Arduino)
 -  **Teachable Machine** (for training the AI model)
